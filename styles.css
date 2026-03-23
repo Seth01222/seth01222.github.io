@@ -1,0 +1,38 @@
+body {
+    background: #f4f8fb;
+    font-family: Arial, "Times New Roman", sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: #6e81cc;
+}
+
+h2 {
+    color: #0b3954;
+}
+
+.about, .skills, .projects, .contact {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.about {
+    background: #d9f0ff;
+}
+
+.skills {
+    background: #eaf7ea;
+}
+
+.projects {
+    background: #fff4d6;
+}
+
+.contact {
+    background: #fce4ec;
+}
